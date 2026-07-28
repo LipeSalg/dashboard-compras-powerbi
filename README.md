@@ -1,8 +1,8 @@
-# Dashboard Executivo de Compras | Power BI
+# Dashboard Executivo de Vendas | Power BI
 
 ## Objetivo
 
-Este projeto apresenta um dashboard executivo desenvolvido em Power BI para acompanhamento dos principais indicadores da área de Compras.
+Este projeto apresenta um dashboard executivo desenvolvido em Power BI para acompanhamento dos principais indicadores da área de Vendas da empresa fictícia Adventure Works utilizada pela Microsoft.
 
 O objetivo, além de fazer parte dos meus estudos para a PL-300, é também fornecer uma visão gerencial que permita monitorar processos de aquisição, identificar oportunidades de melhoria e apoiar a tomada de decisão
 
